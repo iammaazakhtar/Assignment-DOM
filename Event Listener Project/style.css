@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+  background-color: #534552;
+}
+
+button {
+  width: 150px;
+  height: 30px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
